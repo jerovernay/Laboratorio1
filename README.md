@@ -1,5 +1,5 @@
 Laboratorio 1
-Descripción
+
 
 Este repositorio contiene el contenido de Laboratorio 1
 
